@@ -14,10 +14,6 @@
 
 ###
 
-<h2 align="left"></h2>
-
-###
-
 <h2 align="left">Articles</h2>
 
 ###
@@ -25,6 +21,10 @@
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=philscode&theme=city_lights" alt="Layout with last medium posts"  />
 </div>
+
+###
+
+<h2 align="left"></h2>
 
 ###
 
