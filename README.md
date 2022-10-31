@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👀 Currently focusing on AWS and  Front End Technologies (Angular, Ionic, Nx, Phaser, Cypress, JEST, Storybook)<br>💞️ I’m open to collaborating!<br>📝 I post content from time to time on [twitter.com/philscode](https://www.twitter.com/philscode) and [philscode.com](https://www.philscode.com).<br>📫 Best place to reach me: https://twitter.com/philscode</p>
+<p align="left">👀 Currently focusing on AWS and  Front End Technologies (Angular, Ionic, Nx, Phaser, Cypress, JEST, Storybook)<br>💞️ I’m open to collaborating!<br>📝 I post content from time to time on <a href="https://www.twitter.com/philscode" target="_blank" rel="noopener noreferrer">twitter.com/philscode</a> and [philscode.com](https://www.philscode.com).<br>📫 Best place to reach me: https://twitter.com/philscode</p>
 
 ###
 
