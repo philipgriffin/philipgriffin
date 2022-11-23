@@ -1,8 +1,8 @@
-<h1 align="left">Stay a while and listen... 👋</h1>
+<h1 align="left">Hey! I'm Phil! 👋</h1>
 
 ###
 
-<p align="left">Hey! I'm Phil!</p>
+<p align="left">Stay a while and listen...</p>
 
 ###
 
@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">👀 Currently focusing on AWS and  Front End Technologies (Angular, Ionic, Nx, Phaser, Cypress, JEST, Storybook)<br>💞️ I’m open to collaborating!<br>📝 I post content from time to time on <a href="https://www.twitter.com/philscode" target="_blank" rel="noopener noreferrer">twitter.com/philscode</a> and <a href="https://philscode.com" target="_blank" rel="noopener noreferrer">philscode.com</a>.<br>📫 Best place to reach me: https://twitter.com/philscode</p>
+- 👀 Currently focusing on AWS and  Front End Technologies (Angular, Ionic, Nx, Phaser, Cypress, JEST, Storybook) 
+- 💞️ I’m open to collaborating!
+- 📝 I post content from time to time on <a href="https://www.twitter.com/philscode" target="_blank" rel="noopener noreferrer">twitter.com/philscode</a> and <a href="https://philscode.com" target="_blank" rel="noopener noreferrer">philscode.com</a>.
+- 📫 Best place to reach me: https://twitter.com/philscode
 
 ###
 
