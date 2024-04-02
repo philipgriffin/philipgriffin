@@ -19,8 +19,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=philscode&theme=city_lights" alt="Layout with last medium posts"  />
+<div align="left">
+        <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@philscode/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@philscode/2" alt="Recent Article 1"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@philscode/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@philscode/0" alt="Recent Article 2"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@philscode/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@philscode/1" alt="Recent Article 3"> 
+
 </div>
 
 ###
@@ -35,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="52" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" width="52" alt="photoshop logo"  />
