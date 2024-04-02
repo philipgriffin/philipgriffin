@@ -11,7 +11,6 @@
 ###
 
 - 👀 Currently focusing on too much...
-- 💞️ I’m open to collaborating!
 - 📝 I post content from time to time on <a href="https://www.twitter.com/philscode" target="_blank" rel="noopener noreferrer">twitter.com/philscode</a> and <a href="https://blog.philscode.com" target="_blank" rel="noopener noreferrer">blog.philscode.com</a>.
 
 ###
