@@ -20,13 +20,13 @@
 ###
 
 <div align="left">
-        <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@philscode/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@philscode/2" alt="Recent Article 1"> 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@philscode/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@philscode/0" alt="Recent Article 2"> 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@philscode/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@philscode/1" alt="Recent Article 3"> 
-
+  <a target="_blank" href="https://blog.philscode.com/cypress-visual-testing-intro/"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@philscode/2" alt="Recent Article 1"> 
+  <a target="_blank" href="https://blog.philscode.com/e2e-testing-a-video-game/"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@philscode/0" alt="Recent Article 2"> 
 </div>
 
-###
+Read more at [blog.philscode.com](https://blog.philscode.com/)
+
+          
 
 <h2 align="left"></h2>
 
